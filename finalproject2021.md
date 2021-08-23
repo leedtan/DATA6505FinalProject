@@ -1,5 +1,5 @@
-# BUAN 6505 Final Projects
-## Fall 2020
+# DATA 6505 Final Project
+## Fall 2021
 __This is the final project document.__
 
 ## Overview
@@ -45,9 +45,9 @@ The tutorial is in 10 parts, with some of the more advanced work in the second h
 8. **Clean up your final notebooks and the folder.** The final notebook is your presentation (i.e., there will be no slides) so make sure it is readable on a TV monitor from across the room. It is also your report, so make sure every objective, decision, interpretation, and conclusion you make is throughly explained and professional-looking. (Yes, styling and organization matters. We're professionals, right?) Make sure you don't have any unfinished or extraneous artifacts left over from your explorations. (Again, we're professionals, not undergrads.)
 
 ## Timeline/Workplan
-* **Oct., 27:** Review assignment, form teams, and begin planning out the work. Do not create any shared folder yet. 
-* **Nov, 3:** Follow instructions in class to set up your teams and shared folders . Also prepare a short (5-minute verbal) __proposal__ for your project that covers i) data source; ii) research questions; iii) anticipated challenges; and iv) what results you expect to present on the final day of class.
-* **Nov., 10 and 17:** Use the class time to meet with your team and ask questions when needed. (Note: You are expected to show up for class. We have other classwork to do yet.)
-* **Dec., 1:** Preview of your results. This is like a dress rehearsal to address any remaining problems before your final presentations. 
-* **Dec., 8:** Present your finished work. Walk us through your project, including your source/motivations, finished notebook, modules/testing, and lessons learned. There will be no slides for this. Just use your work. See the instructions for the `summary.ipynb` file above. 
+* **Nov, 2:** Review assignment, form teams, and begin planning out the work. Do not create any shared folder yet. 
+* **Nov, 9:** Follow instructions in class to set up your teams and shared folders. Also prepare a short (5-minute verbal) __proposal__ for your project that covers i) data source; ii) research questions; iii) anticipated challenges; and iv) what results you expect to present on the final day of class.
+* **Nov., 16, 23 and 30:** Use the class time to meet with your team and ask questions when needed. (Note: You are expected to show up for class. We have other classwork to do yet.)
+* **Dec., 7:** Preview of your results. This is like a dress rehearsal to address any remaining problems before your final presentations. 
+* **Dec., 14:** Present your finished work. Walk us through your project, including your source/motivations, finished notebook, modules/testing, and lessons learned. There will be no slides for this. Just use your work. See the instructions for the `summary.ipynb` file above. 
 
