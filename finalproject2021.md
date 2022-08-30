@@ -1,9 +1,9 @@
 # DATA 6505 Final Project
-## Fall 2021
+## Fall 2022
 __This is the final project document.__
 
 ## Overview
-Students work in 3-person teams to define and complete a moderately-sized analytical project in Python. Detailed instructions are provided regarding selecting and framing a suitable analysis. Grading criteria will reflect demonstrated achievement of the objectives and compliance with the requirements.
+Students work in 2/3-person teams to define and complete a moderately-sized analytical project in Python. Detailed instructions are provided regarding selecting and framing a suitable analysis. Grading criteria will reflect demonstrated achievement of the objectives and compliance with the requirements.
 
 ## Objectives
 * Apply Python skills to a student-selected analytical project of moderate (but nontrivial) scope and complexity.
