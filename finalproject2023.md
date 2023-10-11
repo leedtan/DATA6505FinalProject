@@ -15,8 +15,10 @@ Students work in 2/3-person teams to define and complete a moderately-sized anal
 * Students are strongly encouraged to go above and beyond and create interesting datasets to then do analytics on, that demonstrate the interaction between a builder mentality, business intuition, and software excellence.
 * Above and beyond examples could involve other engineering steps, but with focus on making sure you focus on the analytics.
   * Building a python clone of a game like Angry Birds or Flappy Bird, training a model to solve flappy birds while tracking data on model performance, and building analytics/reporting on the models learning process
-  * scraping data from websites and doing analytics on what you collected
-  * parsing a massive, messy, opensource dataset such as YouTube-8M, etc, extracting features from it, and doing analytics on that
+  * Scraping data from websites and doing analytics on what you collected
+  * Parsing a massive, messy, opensource dataset such as YouTube-8M, etc, extracting features from it, and doing analytics on that
+  * Make your analytics interactive
+  * Set up your interactive with testing to help you collaborate with your team as if you were an industry team
 * The focus will always be on the conclusion of building a business analytics report, but if you have time to choose a meaty problem to solve in a business-appropriate way that ends in that report with software documentation for how and why it was built the way it was, that could prove much more value to your resume and career than stand-alone analytics (But that depends on the analytics, some people make very successful careers out of complex dashboarding).
 
 ## Project Requirements
