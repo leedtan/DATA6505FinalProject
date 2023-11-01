@@ -57,7 +57,7 @@ The tutorial is in 10 parts, with some of the more advanced work in the second h
 
 ## Timeline/Workplan
 * **Oct, 25:** Review assignment, form teams, and begin planning out the work. Do not create any shared folder yet. 
-* **Nov, 8:** Follow instructions in class to set up your teams and shared folders. Also prepare a short (5-minute verbal) __proposal__ for your project that covers i) data source; ii) research questions; iii) anticipated challenges; and iv) what results you expect to present on the final day of class.
+* **Nov, 15:** Follow instructions in class to set up your teams and shared folders. Also prepare a short (5-minute verbal) __proposal__ for your project that covers i) data source; ii) research questions; iii) anticipated challenges; and iv) what results you expect to present on the final day of class.
 * **Nov., 22 and 29, Dec 6.:** Use the class time to meet with your team and ask questions when needed. (Note: You are expected to show up for class. We have other classwork to do yet.)
 * **Dec., 13:** Preview of your results. This is like a dress rehearsal to address any remaining problems before your final presentations. 
 * **Dec., 20:** Present your finished work. Walk us through your project, including your source/motivations, finished notebook, modules/testing, and lessons learned. There will be no slides for this. Just use your work. See the instructions for the `summary.ipynb` file above. 
